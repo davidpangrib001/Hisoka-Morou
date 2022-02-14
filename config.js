@@ -19,8 +19,8 @@ global.APIKeys = {
 
 // Other
 global.owner = ['6282160268332','6282128475388','0']
-global.packname = 'One MULTI DEVICE'
-global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.packname = '\n\n\n\n\n\n\n\n\n\nOne MULTI DEVICE'
+global.author = '\n\n\n\n\n\n\n\n\n\nBy ffmpeg 2.9.5.4A'
 global.sessionName = 'ndaktau'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
