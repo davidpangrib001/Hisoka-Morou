@@ -19,20 +19,20 @@ global.APIKeys = {
 
 // Other
 global.owner = ['6282160268332','6282128475388','0']
-global.packname = '\n\n\n\n\n\n\n\n\n\nOne MULTI DEVICE'
-global.author = '\n\n\n\n\n\n\n\n\n\nBy ffmpeg 2.9.5.4A'
+global.packname = '\n\n\n\nOne\n\nBot\n\nMulti\n\nDevice\n\n\n\n\n\n\n\n'
+global.author = '\n\n\n\nWhatsApp\nNumber:\n\n0821 2847 5388\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
 global.sessionName = 'ndaktau'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    admin: '*Fitur Khusus Admin Group*',
+    botAdmin: '*Bot Harus Menjadi Admin Terlebih Dahulu*',
+    owner: '*Fitur Khusus Owner Bot*',
+    group: '*Fitur Digunakan Hanya Untuk Group*',
+    private: '*Fitur Digunakan Hanya Untuk Private Chat*',
+    bot: '*Fitur Khusus Pengguna Nomor Bot*',
+    wait: '*_Memproses.._*',
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
 
